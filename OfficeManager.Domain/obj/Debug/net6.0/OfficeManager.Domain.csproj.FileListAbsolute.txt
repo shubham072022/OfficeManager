@@ -1,0 +1,12 @@
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\bin\Debug\net6.0\OfficeManager.Domain.deps.json
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\bin\Debug\net6.0\OfficeManager.Domain.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\bin\Debug\net6.0\OfficeManager.Domain.pdb
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.csproj.AssemblyReference.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.AssemblyInfoInputs.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.AssemblyInfo.cs
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.csproj.CoreCompileInputs.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\refint\OfficeManager.Domain.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\OfficeManager.Domain.pdb
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Domain\obj\Debug\net6.0\ref\OfficeManager.Domain.dll

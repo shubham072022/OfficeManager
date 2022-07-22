@@ -1,0 +1,15 @@
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\bin\Debug\net6.0\OfficeManager.Application.deps.json
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\bin\Debug\net6.0\OfficeManager.Application.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\bin\Debug\net6.0\OfficeManager.Application.pdb
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\bin\Debug\net6.0\OfficeManager.Domain.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\bin\Debug\net6.0\OfficeManager.Domain.pdb
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.csproj.AssemblyReference.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.AssemblyInfoInputs.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.AssemblyInfo.cs
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.csproj.CoreCompileInputs.cache
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.csproj.CopyComplete
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\refint\OfficeManager.Application.dll
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\OfficeManager.Application.pdb
+D:\Shubham_Workplace\dotnetrevision\OfficeManager\OfficeManager.Application\obj\Debug\net6.0\ref\OfficeManager.Application.dll
